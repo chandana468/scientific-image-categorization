@@ -195,8 +195,8 @@ Future versions of the project can be extended with:
 - Mobile and web application deployment
  Project Significance:
 This project demonstrates the application of Machine Learning and Image Processing to solve a real-world problem in scientific data management. The system provides a foundation for intelligent organization of biomedical and experimental images and can be further enhanced using modern deep learning and computer vision techniques.
-⭐ Conclusion:
 
+⭐ Conclusion:
 Automated Scientific Image Categorization provides an efficient machine learning-based approach for organizing scientific images into meaningful domain-specific categories. By combining image preprocessing, machine learning classification, model evaluation, and an interactive interface, the project reduces dependence on manual categorization and provides a scalable foundation for intelligent scientific knowledge organization.
 
 ---
